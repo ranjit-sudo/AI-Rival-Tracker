@@ -33,7 +33,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/ranjit-sudo/rival-tracker.git
-cd rival-tracker
+cd AI Rival Tracker
 ```
 
 **2. Install dependencies:**
