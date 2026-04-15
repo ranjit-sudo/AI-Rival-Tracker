@@ -32,7 +32,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/ranjit-sudo/rival-tracker.git
+git clone https://github.com/ranjit-sudo/AI-Rival-Tracker.git
 cd AI Rival Tracker
 ```
 
